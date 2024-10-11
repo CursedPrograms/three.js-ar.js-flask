@@ -1,10 +1,10 @@
-from flask import Flask, send_from_directory
+from flask import Flask, render_template
 
 app = Flask(__name__)
 
 @app.route('/')
 def index():
-    return send_from_directory('src', 'index.html')
+    return render_template('index.html')  # Ensure index.html exists in the 'templates' folder
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()

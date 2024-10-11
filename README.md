@@ -27,6 +27,10 @@
 https://ar-js-org.github.io/AR.js-Docs/
 
 <br>
+
+https://cursedprograms.github.io/three.js-ar.js-flask/
+
+<br>
 <div align="center">
 © Cursed Entertainment
 </div>

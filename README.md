@@ -1,4 +1,4 @@
-# three.js-flask
+# three.js-ar.js-flask
 
 https://ar-js-org.github.io/AR.js-Docs/
 

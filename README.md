@@ -26,8 +26,6 @@
 
 https://ar-js-org.github.io/AR.js-Docs/
 
-Cursed Entertainment 2024
-
 <br>
 <div align="center">
 © Cursed Entertainment

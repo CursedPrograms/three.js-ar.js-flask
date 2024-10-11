@@ -26,12 +26,12 @@
 
 # three.js-ar.js-flask
 
-https://ar-js-org.github.io/AR.js-Docs/
+[AR.js Documentation](https://ar-js-org.github.io/AR.js-Docs/)
 
 <br>
 
-https://three-js-ar-js-flask.onrender.com/
-https://cursedprograms.github.io/three.js-ar.js-flask/
+[Three.js-AR.js-Flask Demo on Render](https://three-js-ar-js-flask.onrender.com/)  
+[Three.js-AR.js-Flask Demo on GitHub Pages](https://cursedprograms.github.io/three.js-ar.js-flask/)
 
 <br>
 <div align="center">

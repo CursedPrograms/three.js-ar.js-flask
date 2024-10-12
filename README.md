@@ -27,6 +27,12 @@
 
 # three.js-ar.js-flask
 
+<br>
+
+https://github.com/CursedPrograms/Augmented-Reality-Resources
+
+<br>
+
 [AR.js Documentation](https://ar-js-org.github.io/AR.js-Docs/)
 
 <br>
